@@ -2,8 +2,9 @@
 name: "\U0001F5FA️ Scene"
 about: Plan a new scene from the adventure using this template
 title: "\U0001F5FA️ Location - Quest Name [Map Name]"
-labels: bug
+labels: ''
 assignees: ''
+type: Task
 
 ---
 

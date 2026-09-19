@@ -1,7 +1,7 @@
 ---
 name: "\U0001FAB3 Bug report"
 about: Report an issue with a Scene or the Module itself
-title: "[BUG] - Scene Name - What's wrong?"
+title: "\U0001FAB3 Scene Name - What's wrong?"
 labels: bug
 assignees: cvoigt
 type: Bug
