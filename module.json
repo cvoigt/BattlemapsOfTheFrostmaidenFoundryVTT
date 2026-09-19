@@ -1,8 +1,8 @@
 {
   "id": "battlemaps-of-the-frostmaiden",
   "title": "Battlemaps Of The Frostmaiden",
-  "description": "<p>Battlemaps Of The Frostmaiden provides full Scenes for the released maps from GitHub (see https://github.com/cvoigt/BattlemapsOfTheFrostmaiden). Required additional Modules: Mini Light Switch by Stephen Garrett Monk's Active Tile Triggers by Ironmonk Tagger by Wasp</p>",
-  "version": "0.1.0",
+  "description": "<p>Battlemaps Of The Frostmaiden provides full Scenes for the released maps from <a href=\"https://github.com/cvoigt/BattlemapsOfTheFrostmaiden\">Battlemaps Of The Frostmaiden on GitHub</a>.</p><h4>Required Modules</h4><ul><li><p>Monk's Active Tile Triggers by Ironmonk </p></li><li><p>Tagger by Wasp</p></li></ul><h4>Recommended Modules</h4><ul><li><p>Mini Light Switch by Stephen Garrett </p></li></ul>",
+  "version": "0.2.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14.367",
@@ -63,8 +63,8 @@
     ]
   },
   "url": "https://github.com/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT",
-	"download": "https://github.com/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT/archive/0.1.0.zip",
-	"manifest": "https://github.com/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT/releases/latest/download/module.json",
-	"bugs": "https://github.com/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT/issues",
+  "download": "https://github.com/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT/archive/0.2.0.zip",
+  "manifest": "https://github.com/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT/releases/latest/download/module.json",
+  "bugs": "https://github.com/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT/issues",
   "flags": {}
 }
