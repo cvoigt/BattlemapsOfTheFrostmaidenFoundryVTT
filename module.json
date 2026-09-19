@@ -1,0 +1,91 @@
+{
+  "id": "battlemaps-of-the-frostmaiden",
+  "title": "Battlemaps Of The Frostmaiden",
+  "description": "<p>Battlemaps Of The Frostmaiden provides full Scenes for the released maps from GitHub (see https://github.com/cvoigt/BattlemapsOfTheFrostmaiden). Required additional Modules: Mini Light Switch by Stephen Garrett Monk's Active Tile Triggers by Ironmonk Tagger by Wasp</p>",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.367",
+    "maximum": "14.999"
+  },
+  "authors": [
+    {
+      "name": "spucktier",
+      "url": "https://github.com/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT",
+      "flags": {}
+    }
+  ],
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/battlemaps-of-the-frostmaiden/assets/cover.png",
+      "thumbnail": "modules/battlemaps-of-the-frostmaiden/assets/cover-thumbnail.png",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "adventure",
+      "label": "Battlemaps Of The Frostmaiden",
+      "path": "packs/adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Starter Scene Packer",
+      "sorting": "m",
+      "color": "#0000ff",
+      "packs": [
+        "journals",
+        "macros",
+        "maps"
+      ],
+      "folders": [
+        {
+          "name": "Adventure",
+          "sorting": "a",
+          "color": "#ff0000",
+          "packs": [
+            "adventure"
+          ],
+          "folders": []
+        }
+      ]
+    }
+  ],
+  "esmodules": [
+    "scripts/init.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "tagger",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "wgtngm-light-switch",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "https://github.com/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT",
+  "manifest": "",
+  "flags": {}
+}
