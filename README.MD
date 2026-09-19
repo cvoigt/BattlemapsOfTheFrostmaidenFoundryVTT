@@ -1,4 +1,4 @@
-![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fgithub.com%2Fcvoigt%2FBattlemapsOfTheFrostmaidenFoundryVTT%2Freleases%2Flatest%2Fdownload%2Fmodule.json)
+![Foundry Version](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Fstyle%3Dflat%26url%3Dhttps%3A%2F%2Fraw.github.com%2Fcvoigt%2FBattlemapsOfTheFrostmaidenFoundryVTT%2Fmain%2Fmodule.json)
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT) ![GitHub Releases](https://img.shields.io/github/downloads/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT/latest/total) ![GitHub Releases](https://img.shields.io/github/downloads/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT/total)
 
