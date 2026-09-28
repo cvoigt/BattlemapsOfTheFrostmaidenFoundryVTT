@@ -57,4 +57,5 @@ You can expect the following structure for releases:
 - Compatibility with Foundry is updated
 
 ## Acknowledgements
-- Additional Tiles and Graphics for Doors courtesy of **Forgotten Adventures** under the **Fan-Content License**
+- Released under [Wizards of the Coast's Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy)
+- Additional Tiles and Graphics under [Forgotten Adventures' Fan-Content License](https://www.forgotten-adventures.net/info/)

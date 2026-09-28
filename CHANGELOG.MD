@@ -1,3 +1,7 @@
+# 0.3.2
+- added references to the [Wizards of the Coast's Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy) for approval in the Foundry Module Store
+- updated compatibility for Foundry 14 Build 368
+- updated cover image for the module
 # 0.3.1
 - fixes missing CHANGELOG.MD entry for 0.3.0
 # 0.3.0
