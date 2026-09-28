@@ -3,7 +3,7 @@
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT) ![GitHub Releases](https://img.shields.io/github/downloads/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT/latest/total) ![GitHub Releases](https://img.shields.io/github/downloads/cvoigt/BattlemapsOfTheFrostmaidenFoundryVTT/total)
 
 # Battlemaps Of The Frostmaiden
-This Module for **Foundry v14+** provides an **Adventure Compendium** with fully build Scenes based on the [Battlemaps Of The Frostmaiden](https://github.com/cvoigt/BattlemapsOfTheFrostmaidenFoundry).
+This Module for **Foundry v14+** provides an **Adventure Compendium** with fully build Scenes based on the [Battlemaps Of The Frostmaiden](https://github.com/cvoigt/BattlemapsOfTheFrostmaiden).
 
 It is **system-agnostic** even though D&D 5e/5.5e are recommended.
 
