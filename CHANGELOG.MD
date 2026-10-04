@@ -1,3 +1,5 @@
+# 0.5.0
+- Right in time for Halloween the **Black Cabin** makes it debut to scare your players to literal death
 # 0.4.0
 - The **Lost Spire of Netheril** has been found! Find it in the Chapter 2 Adventure Compendium
 # 0.3.2
