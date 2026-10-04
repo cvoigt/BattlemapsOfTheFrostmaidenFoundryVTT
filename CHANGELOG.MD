@@ -1,3 +1,5 @@
+# 0.5.1
+- Black Cabin Scene was missing its thumbnail
 # 0.5.0
 - Right in time for Halloween the **Black Cabin** makes it debut to scare your players to literal death
 # 0.4.0
