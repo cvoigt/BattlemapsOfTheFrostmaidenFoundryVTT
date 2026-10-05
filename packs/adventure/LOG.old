@@ -1,8 +1,15 @@
-2026/09/20-00:24:28.753167 7bf978bfc6c0 Recovering log #38
-2026/09/20-00:24:28.760535 7bf978bfc6c0 Delete type=0 #38
-2026/09/20-00:24:28.760563 7bf978bfc6c0 Delete type=3 #36
-2026/09/22-21:48:59.705742 7bf762bff6c0 Level-0 table #44: started
-2026/09/22-21:48:59.706294 7bf762bff6c0 Level-0 table #44: 0 bytes OK
-2026/09/22-21:48:59.708881 7bf762bff6c0 Delete type=0 #42
-2026/09/22-21:48:59.712390 7bf762bff6c0 Manual compaction at level-0 from '!adventures!KFm1muO9bmvtOIrS' @ 72057594037927935 : 1 .. '!folders!GTWoxBJZUt3pgpZ2' @ 0 : 0; will stop at (end)
-2026/09/22-21:48:59.712506 7bf762bff6c0 Manual compaction at level-1 from '!adventures!KFm1muO9bmvtOIrS' @ 72057594037927935 : 1 .. '!folders!GTWoxBJZUt3pgpZ2' @ 0 : 0; will stop at (end)
+2026/09/28-20:41:53.897965 7bf9793fd6c0 Recovering log #43
+2026/09/28-20:41:53.905433 7bf9793fd6c0 Delete type=0 #43
+2026/09/28-20:41:53.905462 7bf9793fd6c0 Delete type=3 #41
+2026/10/05-21:40:48.095744 7bf762bff6c0 Level-0 table #48: started
+2026/10/05-21:40:48.134980 7bf762bff6c0 Level-0 table #48: 271610 bytes OK
+2026/10/05-21:40:48.137927 7bf762bff6c0 Delete type=0 #46
+2026/10/05-21:40:48.138165 7bf762bff6c0 Manual compaction at level-0 from '!adventures!KFm1muO9bmvtOIrS' @ 72057594037927935 : 1 .. '!folders!GTWoxBJZUt3pgpZ2' @ 0 : 0; will stop at (end)
+2026/10/05-21:40:48.138216 7bf762bff6c0 Manual compaction at level-1 from '!adventures!KFm1muO9bmvtOIrS' @ 72057594037927935 : 1 .. '!folders!GTWoxBJZUt3pgpZ2' @ 0 : 0; will stop at '!adventures!YwcMV1xMJMv9YrbH' @ 22 : 1
+2026/10/05-21:40:48.138223 7bf762bff6c0 Compacting 1@1 + 1@2 files
+2026/10/05-21:40:48.141880 7bf762bff6c0 Generated table #49@1: 4 keys, 91725 bytes
+2026/10/05-21:40:48.141898 7bf762bff6c0 Compacted 1@1 + 1@2 files => 91725 bytes
+2026/10/05-21:40:48.144311 7bf762bff6c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/05-21:40:48.144425 7bf762bff6c0 Delete type=2 #48
+2026/10/05-21:40:48.144541 7bf762bff6c0 Delete type=2 #40
+2026/10/05-21:40:48.155044 7bf762bff6c0 Manual compaction at level-1 from '!adventures!YwcMV1xMJMv9YrbH' @ 22 : 1 .. '!folders!GTWoxBJZUt3pgpZ2' @ 0 : 0; will stop at (end)
