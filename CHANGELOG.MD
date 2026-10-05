@@ -1,3 +1,6 @@
+# 0.6.0
+- **Xardorok's Fortress** has been discovered!
+- Added better indicator to the Adventure Compendium on which Chapters are considered "work in progress" and which are fully complete (all published scenes in this module are considered "complete" but this should help GMs better judge how much work is still left/what they can rely upon)
 # 0.5.1
 - **Black Cabin**: Scene was missing its thumbnail after importing
 # 0.5.0
