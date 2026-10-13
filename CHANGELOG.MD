@@ -1,3 +1,12 @@
+# 0.7.0
+- Finishing the Duergar locations, this release includes the **Duergar Outpost** at Kelvin's Cairn
+- Easthaven has received its missing quest locations for **Toil and Trouble** with the **Cauldron Caves** and the **Abandoned Rowboat**
+- cleaned up the module and removed files that are not required by the module anymore
+- removed a rogue macro tile from Xardorok's Fortress, that sneaky little bugger!
+## Known Issues
+- Due to the cleanup the thumbnails for your already imported Scenes might be missing. This is a one-time issue because of some internal restructuring and will not happen again
+  - if you've already made changes to the Scenes you can recreate the thumbnails in the Scene overview
+  - or reimport the Scene from the Compendium if you don't mind going back to the standard Scene
 # 0.6.0
 - **Xardorok's Fortress** has been discovered!
 - Added better indicator to the Adventure Compendium on which Chapters are considered "work in progress" and which are fully complete (all published scenes in this module are considered "complete" but this should help GMs better judge how much work is still left/what they can rely upon)
