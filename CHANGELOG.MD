@@ -1,3 +1,5 @@
+# 0.7.1
+- The sneaky Duergar managed to not be included in the compendium for 0.7.0 so here they can be found in "**The Unseen**" in Caer-Konig :)
 # 0.7.0
 - Finishing the Duergar locations, this release includes the **Duergar Outpost** at Kelvin's Cairn
 - Easthaven has received its missing quest locations for **Toil and Trouble** with the **Cauldron Caves** and the **Abandoned Rowboat**
